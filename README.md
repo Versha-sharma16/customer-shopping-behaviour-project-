@@ -25,8 +25,11 @@ Order Date
 
 # Tech Stack
 Python (Pandas, NumPy) → Data cleaning & exploratory analysis
+
 SQL (MySQL) → Advanced querying & window functions
+
 Jupyter Notebook → Analysis workflow
+
 Excel → Data validation and quick exploration
 
 # Methodology
