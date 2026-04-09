@@ -123,5 +123,3 @@ from cleaned_data
 group by payment_method
 order by transaction_method desc;
 
-SELECT @@hostname;
-SHOW DATABASES;
